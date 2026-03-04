@@ -1,6 +1,4 @@
 
-# GitHub README (Full Version)
-
 ## Multi-Asset Portfolio Forecasting
 
 **Time Series Forecasting • Machine Learning • Financial Analytics**
@@ -318,5 +316,4 @@ Shalini Patel
 MS Data Analytics
 Data Science | Machine Learning | Financial Analytics
 
-tm_source=chatgpt.com "Hybrid LSTM and PPO Networks for Dynamic Portfolio Optimization"
 
